@@ -4,4 +4,7 @@
 
 ### Directory Structure
 
-![Drive C](/folder.png) C:\
+Directory | Description
+--- | ---
+C:\amgldev|root directory
+&mdash; eclipse|Eclipse IDE
