@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+title: TLDAG
+description: TLDAG
+
+email: tldag.ch@gmail.com
+twitter_username: tldag
+github_username:  tldag
+
+domain: tldag.github.io
+
+url: https://tldag.github.io
+baseurl: /tldag.github.io/
+
+#theme: jekyll-theme-cayman
+ignore_theme_config: true
+
+#plugins:
+#  - jekyll-feed
+
+exclude: [build.xml, LICENSE, README.md, Gemfile, Gemfile.lock]

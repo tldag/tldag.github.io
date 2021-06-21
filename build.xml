@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="tldag.github.io" default="build">
+	
+    <target name="build">
+    	
+    	<exec executable="cmd.exe">
+    		<arg line="/c"/>
+    		<arg line="bundle"/>
+    		<arg line="update"/>
+    	</exec>
+    	
+    	<exec executable="cmd.exe">
+    		<arg line="/c"/>
+    		<arg line="bundle"/>
+    		<arg line="install"/>
+    	</exec>
+    	
+    	<exec executable="cmd.exe">
+			<arg line="/c"/>
+			<arg line="bundle"/>
+			<arg line="exec"/>
+    		<arg line="jekyll"/>
+    		<arg line="build"/>
+		</exec>
+    	
+    </target>
+	
+	<target name="clean">
+		
+		<delete dir="_site" />
+		<delete dir=".jekyll-cache" />
+		<delete file="Gemfile.lock" />
+		
+	</target>
+
+</project>
