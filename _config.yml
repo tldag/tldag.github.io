@@ -8,7 +8,7 @@ github_username:  tldag
 domain: tldag.github.io
 
 url: https://tldag.github.io
-baseurl: /tldag.github.io/
+baseurl: /tldag.github.io
 
 #theme: jekyll-theme-cayman
 ignore_theme_config: true

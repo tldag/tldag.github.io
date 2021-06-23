@@ -16,12 +16,18 @@
     	</exec>
     	
     	<exec executable="cmd.exe">
-			<arg line="/c"/>
-			<arg line="bundle"/>
-			<arg line="exec"/>
-    		<arg line="jekyll"/>
-    		<arg line="build"/>
+			<arg line="/c" />
+			<arg line="bundle" />
+			<arg line="exec" />
+    		<arg line="jekyll" />
+    		<arg line="build" />
 		</exec>
+    	
+    	<exec executable="cmd.exe">
+    		<arg line="/c" />
+    		<arg line="start" />
+    		<arg line="_site/index.html" />
+    	</exec>
     	
     </target>
 	
