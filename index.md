@@ -9,7 +9,7 @@ TLDAG E-Mail: tldag.ch@gmail.com
 
 tldag.ch@gmail.com has its own GitHub Account: tldag-ci
 
-Uer tldag-ci has a personal access token (PAT). This PAT is stored as secret named ```TLDAG_TOKEN``` in the ```tldag``` GitHub organization.
+User ```tldag-ci``` has a personal access token (PAT). This PAT is stored as secret named ```TLDAG_TOKEN``` in the ```tldag``` GitHub organization.
 
 ## Links
 
