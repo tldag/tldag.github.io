@@ -8,13 +8,8 @@ github_username:  tldag
 domain: tldag.github.io
 
 url: https://tldag.github.io
-baseurl: /tldag.github.io
+#baseurl: /tldag.github.io
 
-#theme: jekyll-theme-cayman
-#ignore_theme_config: true
 remote_theme: tldag/tldag-markdown-layout
 
-#plugins:
-#  - jekyll-feed
-
-exclude: [build.xml, LICENSE, README.md, Gemfile, Gemfile.lock]
+exclude: [LICENSE, README.md, Gemfile]

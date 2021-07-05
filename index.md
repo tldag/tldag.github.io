@@ -3,6 +3,8 @@ layout: default
 title: TLDAG
 ---
 
+[General Information](/general/)
+
 ## Information to remember
 
 TLDAG E-Mail: tldag.ch@gmail.com
