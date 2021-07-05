@@ -7,5 +7,5 @@ title: The TLDAG Project
 
 ## Sub-Projects
 
-[Markdown Layout](/tldag-markdown-layout/)
-[Powershell Commands](/tldag-powershell/)
+* [Markdown Layout](/tldag-markdown-layout/)
+* [Powershell Commands](/tldag-powershell/)
