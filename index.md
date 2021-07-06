@@ -9,7 +9,7 @@ title: The TLDAG Project
 
 Project | Description | Links | Build
 ---|---|---|---
-Markdown Layout | Layout used to produce this documentation | [![GitHub Repository](/images/github-icon.svg)](https://github.com/tldag/tldag-markdown-layout) | No build required
+Markdown Layout | Layout used to produce this documentation | [![GitHub Repository](/images/github-icon-24.svg)](https://github.com/tldag/tldag-markdown-layout) | No build required
 
 * [Markdown Layout](/tldag-markdown-layout/)
 * [Powershell Commands](/tldag-powershell/)
