@@ -3,12 +3,22 @@ layout: default
 title: The TLDAG Project
 ---
 
+[ghlogo]: /images/github-24.png
+[dclogo]: /images/book-24.png
+
+[versionrep]: https://github.com/tldag/tldag-version
+[versionbdg]: https://github.com/tldag/tldag-version/actions/workflows/cicd.yml/badge.svg
+[layoutrep]: https://github.com/tldag/tldag-markdown-layout
+[layoutbdg]: https://github.com/tldag/tldag-markdown-layout/actions/workflows/cicd.yml/badge.svg
+[dotnetrep]: https://github.com/tldag/tldag-dotnet
+[dotnetbdg]: https://github.com/tldag/tldag-dotnet/actions/workflows/cicd.yml/badge.svg
+
 [General Information](/general/)
 
 ## Sub-Projects
 
 Project | Description | Links | Build
 ---|---|---|---
-Versions | Version number management | [![Repository](/images/github-24.png)](https://github.com/tldag/tldag-version) | No build required
-Markdown Layout | Layout used to produce this documentation | [![Repository](/images/github-24.png)](https://github.com/tldag/tldag-markdown-layout) [![Documentation](/images/book-24.png)](/tldag-markdown-layout/) | No build required
-.Net Projects | Various Libraries | [![Repository](/images/github-24.png)](https://github.com/tldag/tldag-dotnet) [![Documentation](/images/book-24.png)](/tldag-dotnet/) | [![CI/CD](https://github.com/tldag/tldag-dotnet/actions/workflows/cicd.yml/badge.svg)](https://github.com/tldag/tldag-dotnet/actions/workflows/cicd.yml)
+Versions | Version number management | [![Repo][ghlogo]][versionrep] | ![versionbdg]
+Markdown Layout | Layout used to produce this documentation | [![Repo][ghlogo]][layoutrep] [![Doc][dclogo]](/tldag-markdown-layout/) | ![layoutbdg]
+.Net Projects | Various Libraries | [![Repo][ghlogo]][dotnetrep] [![Doc][dclogo]](/tldag-dotnet/) | ![dotnetbdg]
