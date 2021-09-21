@@ -20,6 +20,6 @@ updated: 2021-09-21
 
 Project | Description | Links | Build
 ---|---|---|---
-Versions | Version number management | [![Repo][ghlogo]][versionrep] | ![versionbdg]
+Versions | Version number management | [![Repo][ghlogo]][versionrep] [![Doc][dclogo]](/tldag-version/) | ![versionbdg]
 Markdown Layout | Layout used to produce this documentation | [![Repo][ghlogo]][layoutrep] [![Doc][dclogo]](/tldag-markdown-layout/) | ![layoutbdg]
 .Net Projects | Various Libraries | [![Repo][ghlogo]][dotnetrep] [![Doc][dclogo]](/tldag-dotnet/) | ![dotnetbdg]
