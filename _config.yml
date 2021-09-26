@@ -9,6 +9,6 @@ domain: tldag.github.io
 
 url: https://tldag.github.io
 
-remote_theme: tldag/tldag-markdown-layout@latest
+#remote_theme: tldag/tldag-markdown-layout@latest
 
 exclude: [LICENSE, README.md, Gemfile]
