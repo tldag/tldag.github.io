@@ -1,4 +1,9 @@
-# MIT License
+---
+title: TLDAG | License
+updated: 2021-09-27
+---
+
+## MIT License
 
 Copyright © 2021 The TLDAG Project
 
