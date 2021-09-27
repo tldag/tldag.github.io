@@ -8,4 +8,4 @@ domain: tldag.github.io
 
 url: https://tldag.github.io
 
-exclude: [LICENSE, README.md, Gemfile]
+exclude: [README.md]
